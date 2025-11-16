@@ -1,8 +1,6 @@
 Inspired by Karpathy.
 
-A personal learning repo to hack on an LLM for fun that I built myself and implemented myself and didn't use claude for
-
-gives me a codebase I know intimately to implement new research and see if the ideas are any good
+A personal learning repo to hack on an LLM for fun that I built myself and implemented myself and didn't use claude for and didn't copy/paste anything. Gives me a codebase I know intimately so that I can implement new research and see if the ideas are any good. Also full-stack experience and something to fiddle on before I fall asleep.
 
 Vague plans to copy a sota MoE architecture (e.g., kimi-k2, kwen, etc)
 
